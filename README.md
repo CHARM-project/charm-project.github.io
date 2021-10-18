@@ -14,7 +14,7 @@ CHARM is a 3-year [ANR-NSF](https://www.nsf.gov/pubs/2021/nsf21020/nsf21020.jsp)
 
 ## Activities:
 
-| Meeting  | Dates | Description |
-| ------------- | ------------- |
-| TBA  | TBA  |
-| TBA  | TBA  |
+| Meeting  | Dates | Topic |
+| ------------- | ------------- |------------- |
+| TBA  | TBA  | TBA  |
+| TBA  | TBA  | TBA  |
