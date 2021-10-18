@@ -1,8 +1,8 @@
-Welcome to the CHARM ANR-NSF project!
+# Welcome to the CHARM ANR-NSF project!
 
 
-# Project Description:
+## Project Description:
 
 
-# Activities:
+## Activities:
 
