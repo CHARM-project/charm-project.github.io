@@ -18,6 +18,9 @@ CHARM is a 3-year [ANR-NSF](https://www.nsf.gov/pubs/2021/nsf21020/nsf21020.jsp)
 | ------------- | ------------- |------------- |
 | Noah Stephens-Davidowitz  | Nov 17th  | Lattice algorithms review  |
 | Damien Stehlé  | Nov 24th  | Intractability assumptions on module lattices  |
-| Guillaume Hanrot | Dec 1st  | Background on algebraic number theory  |
-| Bill Allombert and Aurel Page | Dec 8th and 15th | Introduction to Pari GP |
-| Alice Pellet--Mary | Jan 5th  | Algorithms for Ideal-SVP |
+| Shi Bai | Dec 1st  | Introduction to fplll  |
+| Guillaume Hanrot | Dec 8th  | Elementary algebraic number theory  |
+| Damien Stehlé  | Dec 15th  | Cryptography from algebraic lattices  |
+| Alice Pellet--Mary | Jan 12th  | Algorithms for Ideal-SVP |
+| Bill Allombert and Aurel Page | Jan 19th and 26th | Introduction to Pari GP |
+
