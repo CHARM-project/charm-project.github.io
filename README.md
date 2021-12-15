@@ -1,4 +1,6 @@
-# Welcome to the CHARM ANR-NSF project!      ![image](https://user-images.githubusercontent.com/9050998/146155487-2ae1de36-2e91-42f2-94e5-4d9f5f5ca9d0.png {width=40px height=400px})
+# Welcome to the CHARM ANR-NSF project!  &nbsp; &nbsp;  <img src="https://user-images.githubusercontent.com/9050998/146155487-2ae1de36-2e91-42f2-94e5-4d9f5f5ca9d0.png" width="75" > <img src="https://user-images.githubusercontent.com/9050998/146157103-e381d4b2-4fb2-4370-a6b2-417ccdadaa4f.png" width="30"> 
+
+
 
 ## Project Description
 
