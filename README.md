@@ -2,7 +2,7 @@
 
 
 
-## Project Description
+## Project description
 
 CHARM (ANR-21-CE94-0003) is a 3-year [ANR-NSF](https://www.nsf.gov/pubs/2021/nsf21020/nsf21020.jsp) project that started in October 2021, on cryptographically relevant hard problems for module lattices. This is a joint project between teams located at four sites, headed by:
  - Shi Bai (FAU)
@@ -12,7 +12,7 @@ CHARM (ANR-21-CE94-0003) is a 3-year [ANR-NSF](https://www.nsf.gov/pubs/2021/nsf
  
 
 
-## Activities: (Wed 9-11am US east, 3-5pm FR)
+## Activities &nbsp; (Wed 9-11am US east, 3-5pm FR)
 
 | Speaker  | Dates | Topic |
 | ------------- | ------------- |------------- |
