@@ -23,3 +23,4 @@ CHARM (ANR-21-CE94-0003) is a 3-year [ANR-NSF](https://www.nsf.gov/pubs/2021/nsf
 | Alice Pellet--Mary | Jan 12th  | Algorithms for Ideal-SVP |
 | Bill Allombert and Aurel Page | Jan 19th and 26th | Introduction to Pari GP |
 
+![image](https://user-images.githubusercontent.com/9050998/146155487-2ae1de36-2e91-42f2-94e5-4d9f5f5ca9d0.png)
