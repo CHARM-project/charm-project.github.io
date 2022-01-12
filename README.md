@@ -4,7 +4,7 @@
 
 ## Project description
 
-CHARM (ANR-21-CE94-0003) is a 3-year [ANR-NSF](https://www.nsf.gov/pubs/2021/nsf21020/nsf21020.jsp) project that started in October 2021, on cryptographically relevant hard problems for module lattices. This is a joint project between teams located at four sites, headed by:
+CHARM (ANR-21-CE94-0003, CCF-2122230) is a 3-year [ANR-NSF](https://www.nsf.gov/pubs/2021/nsf21020/nsf21020.jsp) project that started in October 2021, on cryptographically relevant hard problems for module lattices. This is a joint project between teams located at four sites, headed by:
  - Shi Bai (FAU)
  - Damien Stehlé (ENS Lyon)
  - Noah Stephens-Davidowitz (Cornell)
@@ -23,5 +23,5 @@ CHARM (ANR-21-CE94-0003) is a 3-year [ANR-NSF](https://www.nsf.gov/pubs/2021/nsf
 | Damien Stehlé  | Dec 15th  | Cryptography from algebraic lattices  |
 | Alice Pellet--Mary | Jan 12th  | Algorithms for Ideal-SVP |
 | Bill Allombert and Aurel Page | Jan 19th and 26th | Introduction to Pari GP |
-
+| Noah Stephens-Davidowitz | Feb 2nd | Worst-case to average-case reductions for Ring-LWE |
 
