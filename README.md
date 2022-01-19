@@ -22,6 +22,7 @@ CHARM (ANR-21-CE94-0003, CCF-2122230) is a 3-year [ANR-NSF](https://www.nsf.gov/
 | Guillaume Hanrot | Dec 8th  | Elementary algebraic number theory  |
 | Damien Stehlé  | Dec 15th  | Cryptography from algebraic lattices  |
 | Alice Pellet--Mary | Jan 12th  | Algorithms for Ideal-SVP |
-| Bill Allombert and Aurel Page | Jan 19th and 26th | Introduction to Pari GP |
+| Bill Allombert | Jan 19th | [Introduction to Pari GP](https://pari.math.u-bordeaux.fr/Events/CHARM2022/) |
+| Aurel Page | Jan 26th | [Algebraic number theory in Pari GP](https://pari.math.u-bordeaux.fr/Events/CHARM2022/) |
 | Noah Stephens-Davidowitz | Feb 2nd | Worst-case to average-case reductions for Ring-LWE |
 
