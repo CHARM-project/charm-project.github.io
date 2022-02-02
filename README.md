@@ -25,7 +25,7 @@ CHARM (ANR-21-CE94-0003, CCF-2122230) is a 3-year [ANR-NSF](https://www.nsf.gov/
 | Bill Allombert | Jan 19th | [Introduction to Pari GP](https://pari.math.u-bordeaux.fr/Events/CHARM2022/) |
 | Aurel Page | Jan 26th | [Algebraic number theory in Pari GP](https://pari.math.u-bordeaux.fr/Events/CHARM2022/) |
 | Noah Stephens-Davidowitz | Feb 2nd | Worst-case to average-case reductions for Ring-LWE |
-| (to be confirmed) | Feb 9th | Galois extensions |
+| Aurel Page | Feb 9th | Galois extensions |
 | Shi Bai | Mar 2nd | Overstretch NTRU |
 | Benjamin Wesolowski | Mar 9th | Average-case ideals |
 | Alice Pellet--Mary | Mar 16th | Module-LLL |
