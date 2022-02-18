@@ -16,16 +16,17 @@ CHARM (ANR-21-CE94-0003, CCF-2122230) is a 3-year [ANR-NSF](https://www.nsf.gov/
 
 | Speaker  | Dates | Topic |
 | ------------- | ------------- |------------- |
-| Noah Stephens-Davidowitz  | Nov 17th  | Lattice algorithms review  |
-| Damien Stehlé  | Nov 24th  | Intractability assumptions on module lattices  |
-| Shi Bai | Dec 1st  | Introduction to fplll  |
-| Guillaume Hanrot | Dec 8th  | Elementary algebraic number theory  |
-| Damien Stehlé  | Dec 15th  | Cryptography from algebraic lattices  |
-| Alice Pellet--Mary | Jan 12th  | Algorithms for Ideal-SVP |
-| Bill Allombert | Jan 19th | [Introduction to Pari GP](https://pari.math.u-bordeaux.fr/Events/CHARM2022/) |
-| Aurel Page | Jan 26th | [Algebraic number theory in Pari GP](https://pari.math.u-bordeaux.fr/Events/CHARM2022/) |
-| Noah Stephens-Davidowitz | Feb 2nd | Worst-case to average-case reductions for Ring-LWE |
-| Aurel Page | Feb 9th | Galois extensions |
 | Shi Bai | Mar 2nd | Overstretch NTRU |
-| Benjamin Wesolowski | Mar 9th | Average-case ideals |
 | Alice Pellet--Mary | Mar 16th | Module-LLL |
+| Benjamin Wesolowski | Mar 9th | Average-case ideals |
+| Aurel Page | Feb 9th | Galois extensions (2)|
+| Aurel Page | Feb 9th | Galois extensions (1)|
+| Noah Stephens-Davidowitz | Feb 2nd | Worst-case to average-case reductions for Ring-LWE |
+| Aurel Page | Jan 26th | [Algebraic number theory in Pari GP](https://pari.math.u-bordeaux.fr/Events/CHARM2022/) |
+| Bill Allombert | Jan 19th | [Introduction to Pari GP](https://pari.math.u-bordeaux.fr/Events/CHARM2022/) |
+| Alice Pellet--Mary | Jan 12th  | Algorithms for Ideal-SVP |
+| Damien Stehlé  | Dec 15th  | Cryptography from algebraic lattices  |
+| Guillaume Hanrot | Dec 8th  | Elementary algebraic number theory  |
+| Shi Bai | Dec 1st  | Introduction to fplll  |
+| Damien Stehlé  | Nov 24th  | Intractability assumptions on module lattices  |
+| Noah Stephens-Davidowitz  | Nov 17th  | Lattice algorithms review  |
