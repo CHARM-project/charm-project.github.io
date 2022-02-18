@@ -25,6 +25,7 @@ Upcoming talks
 
 Past talks
 
+| ------------- | ------------- |------------- |
 | Aurel Page | Feb 9th | Galois extensions (1)|
 | Noah Stephens-Davidowitz | Feb 2nd | Worst-case to average-case reductions for Ring-LWE |
 | Aurel Page | Jan 26th | [Algebraic number theory in Pari GP](https://pari.math.u-bordeaux.fr/Events/CHARM2022/) |
