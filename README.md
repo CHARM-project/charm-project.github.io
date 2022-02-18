@@ -25,6 +25,7 @@ Upcoming talks
 
 Past talks
 
+| Speaker  | Date| Topic |
 | ------------- | ------------- |------------- |
 | Aurel Page | Feb 9th | Galois extensions (1)|
 | Noah Stephens-Davidowitz | Feb 2nd | Worst-case to average-case reductions for Ring-LWE |
