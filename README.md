@@ -21,8 +21,8 @@ Past talks
 
 | Speaker  | Date| Topic |
 | ------------- | ------------- |------------- |
-| Alexandre Wallet | June 22nd | New results and trade-offs for Lattice-based Hash-and-sign signatures |
-| Wessel van der Woerden | May 18th | On the Lattice Isomorphism Problem, Quadratic Forms, Remarkable Lattices, and Cryptography |
+| Alexandre Wallet | June 22nd | [New results and trade-offs for Lattice-based Hash-and-sign signatures](https://github.com/CHARM-project/charm-project.github.io/blob/main/Alexandre.pdf) |
+| Wessel van der Woerden | May 18th | [On the Lattice Isomorphism Problem, Quadratic Forms, Remarkable Lattices, and Cryptography](https://github.com/CHARM-project/charm-project.github.io/blob/main/Wessel.pdf) |
 | Aurel Page | Mar 2nd | Galois extensions (2)|
 | Benjamin Wesolowski | Mar 9th | Average-case ideals |
 | Alice Pellet--Mary | Mar 16th | Module-LLL |
