@@ -21,6 +21,7 @@ Past talks
 
 | Speaker  | Date| Topic |
 | ------------- | ------------- |------------- |
+| Thomas Espitau | April 3rd | [Towards efficient algorithmic aspects of algebraic lattices](https://github.com/CHARM-project/charm-project.github.io/blob/main/slides_Thomas_Charm.pdf)
 | Alexandre Wallet | June 22nd | [New results and trade-offs for lattice-based hash-and-sign signatures](https://github.com/CHARM-project/charm-project.github.io/blob/main/Alexandre.pdf) |
 | Wessel van der Woerden | May 18th | [On the lattice isomorphism problem, quadratic forms, remarkable lattices, and cryptography](https://github.com/CHARM-project/charm-project.github.io/blob/main/Wessel.pdf) |
 | Aurel Page | Mar 2nd | Galois extensions (2)|
