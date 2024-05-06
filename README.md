@@ -6,13 +6,14 @@
 
 CHARM (ANR-21-CE94-0003, CCF-2122230) is a 3-year [ANR-NSF](https://www.nsf.gov/pubs/2021/nsf21020/nsf21020.jsp) project that started in October 2021, on cryptographically relevant hard problems for module lattices. This is a joint project between teams located at four sites, headed by:
  - Shi Bai (FAU)
+ - Alice Pellet--Mary (Bordeaux)
  - Damien Stehlé (ENS Lyon)
  - Noah Stephens-Davidowitz (Cornell)
- - Benjamin Wesolowski (U. Bordeaux)
+ - Benjamin Wesolowski (ENS Lyon)
  
 
 
-## Activities &nbsp; (Wed 9-11am US east, 3-5pm FR)
+## Activities &nbsp; (10-11am US east, 3-5pm FR)
 
 Upcoming talks -- TO BE ANNOUNCED
 
@@ -21,9 +22,10 @@ Past talks
 
 | Speaker  | Date| Topic |
 | ------------- | ------------- |------------- |
-| Thomas Espitau | April 3rd | [Towards efficient algorithmic aspects of algebraic lattices](https://github.com/CHARM-project/charm-project.github.io/blob/main/slides_Thomas_Charm.pdf)
-| Alexandre Wallet | June 22nd | [New results and trade-offs for lattice-based hash-and-sign signatures](https://github.com/CHARM-project/charm-project.github.io/blob/main/Alexandre.pdf) |
-| Wessel van der Woerden | May 18th | [On the lattice isomorphism problem, quadratic forms, remarkable lattices, and cryptography](https://github.com/CHARM-project/charm-project.github.io/blob/main/Wessel.pdf) |
+| David Wu | May 6th, '24 | [Lattice-Based Functional Commitments: Constructions and Cryptanalysis](https://github.com/CHARM-project/charm-project.github.io/blob/main/slides/David_Wu.pdf)
+| Thomas Espitau | April 3rd, '24 | [Towards efficient algorithmic aspects of algebraic lattices](https://github.com/CHARM-project/charm-project.github.io/blob/main/slides/Thomas_Espitau.pdf)
+| Alexandre Wallet | June 22nd | [New results and trade-offs for lattice-based hash-and-sign signatures](https://github.com/CHARM-project/charm-project.github.io/blob/main/slides/Alexandre_Wallet.pdf) |
+| Wessel van der Woerden | May 18th | [On the lattice isomorphism problem, quadratic forms, remarkable lattices, and cryptography](https://github.com/CHARM-project/charm-project.github.io/blob/main/slides/Wessel_vanWoerden.pdf) |
 | Aurel Page | Mar 2nd | Galois extensions (2)|
 | Benjamin Wesolowski | Mar 9th | Average-case ideals |
 | Alice Pellet--Mary | Mar 16th | Module-LLL |
