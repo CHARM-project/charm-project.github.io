@@ -22,6 +22,7 @@ Past talks
 
 | Speaker  | Date| Topic |
 | ------------- | ------------- |------------- |
+| Spencer Peters | September 8th, '24 | [Recursive Lattice Reduction](https://github.com/CHARM-project/charm-project.github.io/blob/main/slides/Spencer_Peters.pdf)
 | David Wu | May 6th, '24 | [Lattice-Based Functional Commitments: Constructions and Cryptanalysis](https://github.com/CHARM-project/charm-project.github.io/blob/main/slides/David_Wu.pdf)
 | Thomas Espitau | April 3rd, '24 | [Towards efficient algorithmic aspects of algebraic lattices](https://github.com/CHARM-project/charm-project.github.io/blob/main/slides/Thomas_Espitau.pdf)
 | Alexandre Wallet | June 22nd | [New results and trade-offs for lattice-based hash-and-sign signatures](https://github.com/CHARM-project/charm-project.github.io/blob/main/slides/Alexandre_Wallet.pdf) |
